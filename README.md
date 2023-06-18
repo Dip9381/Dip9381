@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipansu Rout <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1687102200~exp=1687102800~hmac=63a9e2e7a6c3df79306641d132ad8363566f7a5b9479d0787bb7c08efc1be754" alt="dip9381" width='100' style='border-radius=50%'/></h1>
+<h1 align="center">Hi 👋, I'm Dipansu Rout <img style="border-radius:50%" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1687102200~exp=1687102800~hmac=63a9e2e7a6c3df79306641d132ad8363566f7a5b9479d0787bb7c08efc1be754" alt="dip9381" width='100' /></h1>
 <h3 align="center">A passionate fullstack developer and Java Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dip9381&label=Profile%20views&color=0e75b6&style=flat" alt="dip9381" /> </p>
