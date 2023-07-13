@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dip9381&label=Profile%20views&color=0e75b6&style=flat" alt="dip9381" /> </p>
 
-- 👨‍💻 All of my projects are available at [dip9381.github.io/Portfolio/](dip9381.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at ([dip9381.github.io/Portfolio/](https://dip9381.github.io/Portfolio/))
 
 - 💬 Ask me about **react**
 
